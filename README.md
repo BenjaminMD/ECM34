@@ -1,6 +1,6 @@
 # ECM34
 
-Contact: Benjamin.Fahl@ethz.ch
+Contact: Benjamin.Fahl@mat.ethz.ch
 
 Download Poster from files
 
