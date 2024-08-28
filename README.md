@@ -1,4 +1,7 @@
 # ECM34
-contact: Benjamin.Fahl@ethz.ch
 
-Poster and Software will be uploaded here shortly
+Contact: Benjamin.Fahl@ethz.ch
+
+Download Poster from files
+
+Software will be uploaded here shortly.
